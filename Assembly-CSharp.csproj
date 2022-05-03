@@ -56,12 +56,36 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Enemy.cs" />
-    <Compile Include="Assets\Scripts\Bullet.cs" />
-    <Compile Include="Assets\Scripts\PlayerMove.cs" />
-    <Compile Include="Assets\Scripts\PlayerFire.cs" />
-    <Compile Include="Assets\Scripts\EnemyManager.cs" />
-    <Compile Include="Assets\Scripts\DestroyZone.cs" />
+    <Compile Include="Assets\999_Down\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RotateCamera.cs" />
+    <Compile Include="Assets\999_Down\JMO Assets\Cartoon FX\Scripts\CFX_LightIntensityFade.cs" />
+    <Compile Include="Assets\03_Scripts\Enemy.cs" />
+    <Compile Include="Assets\03_Scripts\EnemyManager.cs" />
+    <Compile Include="Assets\03_Scripts\Bullet.cs" />
+    <Compile Include="Assets\999_Down\JMO Assets\Cartoon FX\Scripts\CFX_AutoRotate.cs" />
+    <Compile Include="Assets\03_Scripts\PlayerMove.cs" />
+    <Compile Include="Assets\03_Scripts\DestroyZone.cs" />
+    <Compile Include="Assets\999_Down\JMO Assets\Cartoon FX\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
+    <Compile Include="Assets\999_Down\StarfieldMaterials\Scripts\Move.cs" />
+    <Compile Include="Assets\999_Down\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs" />
+    <Compile Include="Assets\999_Down\AwesomeCartoonPlanes\Scripts\RotateCamera.cs" />
+    <Compile Include="Assets\999_Down\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDir.cs" />
+    <Compile Include="Assets\03_Scripts\ScoreManager.cs" />
+    <Compile Include="Assets\03_Scripts\PlayerFire.cs" />
+    <Compile Include="Assets\999_Down\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_Translate.cs" />
+    <Compile Include="Assets\03_Scripts\Background.cs" />
+    <Compile Include="Assets\999_Down\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_New.cs" />
+    <Compile Include="Assets\999_Down\AwesomeCartoonPlanes\Scripts\Plane.cs" />
+    <Compile Include="Assets\999_Down\JMO Assets\Cartoon FX\Scripts\CFX_LightFlicker.cs" />
+    <Compile Include="Assets\999_Down\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" />
+    <Compile Include="Assets\03_Scripts\UIManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\999_Down\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
+    <None Include="Assets\999_Down\JMO Assets\Cartoon FX\CartoonFX Free.txt" />
+    <None Include="Assets\999_Down\JMO Assets\Cartoon FX Easy Editor\CartoonFX Easy Editor Readme.txt" />
+    <None Include="Assets\999_Down\AurynSky\Rockets Missiles and Bombs\READ ME.txt" />
+    <None Include="Assets\999_Down\StarfieldMaterials\README\Readme.txt" />
+    <None Include="Assets\999_Down\JMO Assets\Cartoon FX\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
